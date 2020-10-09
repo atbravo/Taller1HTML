@@ -1,0 +1,43 @@
+body, html {
+  height: 100%;
+}
+body {
+  background-image: url("https://img.uefa.com/imgml/uefacom/ucl/fallback.jpg");
+  height: 100%;
+
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  align-content: center;
+}
+p{
+  color: white;
+}
+.tabla {
+  color: white;
+display: inline-block;
+width: 100%;
+vertical-align: top;
+padding: 10px;
+}
+.card{
+  background-color: rgba(216, 195, 195, 0.16);
+  color: black;
+  display: inline-block;
+}
+.card-text{
+  color: rgb(181, 205, 209);
+}
+h1 {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+}
+h2{
+  color: white;
+  padding: 10px;
+}
+a {
+  color: rgb(166, 223, 233);
+}
+
